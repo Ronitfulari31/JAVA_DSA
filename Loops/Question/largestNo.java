@@ -1,4 +1,4 @@
-package Loops.Ques;
+package Loops.Question;
 
 import java.util.Scanner;
 
